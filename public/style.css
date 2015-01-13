@@ -1,0 +1,40 @@
+/*body {
+	background-color: gray;
+}*/
+
+h1 {
+	color: blue;
+}
+
+.main {
+	background-color: #f1f1f1;
+}
+
+.post {
+	background-color: #fff;
+}
+
+.post__head-img {
+	background-image: url("http://i.imgur.com/tcT2ZYO.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: 0% 45%;
+	height: 400px;
+}
+
+.post__footer {
+	background-color: #f7f7f7;
+	padding: 20px 0;
+}
+
+ul {
+	text-align: center;
+	padding: 0;
+}
+
+li {
+	list-style-type; 
+	display: inline;
+	padding-right: 25px;
+}
+
